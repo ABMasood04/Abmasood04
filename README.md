@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Bin Masood</h1>
-<h3 align="center">CS Student | Ethical Hacker | Entrepreneur-to-Be | Food Enthusiast</h3>
+<h3 align="center">CS Student | Entrepreneur-to-Be | Food Enthusiast</h3>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Theory Of Computing, Ethical Hacking**
+- 🌱 I’m currently learning **Data Structures & Algorithms, Theory Of Computing, Project Management, Web development**
 
 - 📫 How to reach me **Abmarmy974@gmail.com**
 
